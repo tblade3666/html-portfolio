@@ -1,0 +1,34 @@
+html {
+    background-color: #FEFAE0;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+body {
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container 
+{
+    display: flex;
+    height: 100%;
+}
+
+.main {
+    padding: 20px
+}
+
+.margin {
+    text-align: center;
+    width: 200px;
+    background-color:  #CCD5AE;
+    padding: 20px;
+    height: 100vh;
+
+}
